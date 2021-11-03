@@ -193,7 +193,7 @@
 						<tr>
 							<td>${n.id}</td>
 							<td class="title indent text-align-left">
-								<a href="detail?id=${n.id}" >${n.title}</a><span>[${n.cmtCount}]</span>
+								<a href="detail?id=${n.id}" >${n.title}</a><span class="-text- orange">[${n.cmtCount}]</span>
 							</td>
 							<td>${n.writerId}</td>
 							<td>
